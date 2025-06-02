@@ -1,0 +1,352 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://beefy.com/favicon-32x32.png?v=effb203e7956299b1030410b27b75b07
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/0638a512c2b0159f700f9c11e50423fc/giddy.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\0638a512c2b0159f700f9c11e50423fc\giddy.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/08fee05f12fe5d37caa16527e2271a2b/Tomb.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\08fee05f12fe5d37caa16527e2271a2b\Tomb.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/134874f107fd70c762bbb555e664db1c/eee22/cover.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\134874f107fd70c762bbb555e664db1c\eee22\cover.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/13549f8d30775b9ab6c40923a7a1f10c/Avalanche.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\13549f8d30775b9ab6c40923a7a1f10c\Avalanche.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/13e80766f11965010f3de289ef711078/Arbitrum.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\13e80766f11965010f3de289ef711078\Arbitrum.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/1c77b33c6be58d0804cdbfd42d71b642/Biswap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\1c77b33c6be58d0804cdbfd42d71b642\Biswap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/211310ebab3b30885968374e725dea5d/Optimism Chain.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\211310ebab3b30885968374e725dea5d\Optimism Chain.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/28038db5afd5ee88a3772bbc485eae3e/beets.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\28038db5afd5ee88a3772bbc485eae3e\beets.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/28c97b6fa080e4a3f255bdcae2cc2f83/Fuse.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\28c97b6fa080e4a3f255bdcae2cc2f83\Fuse.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/2dc7252db3225817660795e9b697a6ed/Debank-1.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\2dc7252db3225817660795e9b697a6ed\Debank-1.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/2fc6c7cfb59aea939343479163f6423a/binance connect.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\2fc6c7cfb59aea939343479163f6423a\binance connect.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/3185d8c592fd069a518a5db81ea3f1b2/Fantom.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\3185d8c592fd069a518a5db81ea3f1b2\Fantom.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/3539f1d12aa054c25997b90211f06533/scream.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\3539f1d12aa054c25997b90211f06533\scream.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/365c149c6cccea4e11f479a59cbedc26/Project Galaxy.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\365c149c6cccea4e11f479a59cbedc26\Project Galaxy.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/4927b526de783cae26c97bfb04507d2c/apeswap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\4927b526de783cae26c97bfb04507d2c\apeswap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/4c5874c6c93c47f845cba387df34d3f8/ren.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\4c5874c6c93c47f845cba387df34d3f8\ren.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/56b5b6bacea3a923536c4a49a941a10a/Stader.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\56b5b6bacea3a923536c4a49a941a10a\Stader.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/5733446234331dcfad302d3b553160e7/Debank-2.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\5733446234331dcfad302d3b553160e7\Debank-2.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/5932536e889f30f442dd30487d177831/jarvis.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\5932536e889f30f442dd30487d177831\jarvis.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/5fb906a283a107528854f2c214a1c45a/Metis.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\5fb906a283a107528854f2c214a1c45a\Metis.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/6686031d5be91fe55d1a4f4dabe19afd/eee22/cover.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\6686031d5be91fe55d1a4f4dabe19afd\eee22\cover.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/672675ef6c4a3e32f01b1ba1bebcca03/curve.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\672675ef6c4a3e32f01b1ba1bebcca03\curve.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/6c84fb0b785e9c193dea953b2c99cc88/SpookySwap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\6c84fb0b785e9c193dea953b2c99cc88\SpookySwap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/6cfeed23af02ee3c3213016c3bb98378/Joe.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\6cfeed23af02ee3c3213016c3bb98378\Joe.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/6d2ef267e5b7f9154cc922121d5c68c0/Binance.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\6d2ef267e5b7f9154cc922121d5c68c0\Binance.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/71ff66cc4166c0cbadcb10c9e862a32c/cronaswap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\71ff66cc4166c0cbadcb10c9e862a32c\cronaswap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/7240c824686ce253e377fd57edb30549/Quickswap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\7240c824686ce253e377fd57edb30549\Quickswap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/75d03156d05bd222bc8282f58e3f3773/Moonriver.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\75d03156d05bd222bc8282f58e3f3773\Moonriver.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/77860d9e8f5a0b436ba49a33fc264f7b/InsurAce.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\77860d9e8f5a0b436ba49a33fc264f7b\InsurAce.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/7f72e766f7dd119edc5f35b107234d76/eee22/cover.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\7f72e766f7dd119edc5f35b107234d76\eee22\cover.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/89a6a20f4b5fad3dcb008aa857212306/Sushi.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\89a6a20f4b5fad3dcb008aa857212306\Sushi.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/8c32550940aacae5b9d24d53e6e52f15/Pancake Swap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\8c32550940aacae5b9d24d53e6e52f15\Pancake Swap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/8e57af341b449af8c8a5c8b1ab9ecdc4/BNB Chain.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\8e57af341b449af8c8a5c8b1ab9ecdc4\BNB Chain.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/8ee89171c7c4ffc8a797553514cbf7c1/Pangolin.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\8ee89171c7c4ffc8a797553514cbf7c1\Pangolin.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/8fbfc544fa103c16afe7489fd0e27ab9/cometh.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\8fbfc544fa103c16afe7489fd0e27ab9\cometh.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/9200aa5012eb83315569f501b96d7c0a/Harmony.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\9200aa5012eb83315569f501b96d7c0a\Harmony.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/9263f409eb05479f3ad8bbcca0fa4526/chainlink.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\9263f409eb05479f3ad8bbcca0fa4526\chainlink.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/9796d2184e239a401159decdab96b762/MultiChain.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\9796d2184e239a401159decdab96b762\MultiChain.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/9ea794d83ed7bb790214b3fab35c5c50/messari.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\9ea794d83ed7bb790214b3fab35c5c50\messari.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a33f78c4229678dbcb156ca3c51c46df/eth.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a33f78c4229678dbcb156ca3c51c46df\eth.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a3a09319fe4a006fd959c02e934f836d/Coinbase Wallet.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a3a09319fe4a006fd959c02e934f836d\Coinbase Wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a55606156bb9a4cf55d14e631a23886f/Nexus Mutual.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a55606156bb9a4cf55d14e631a23886f\Nexus Mutual.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a5cad8d85bbe38f6c653c11525afc998/Celo.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a5cad8d85bbe38f6c653c11525afc998\Celo.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a72d15063baefafa7ea426d74ed0d6a7/ripae.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a72d15063baefafa7ea426d74ed0d6a7\ripae.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a8460bc75f3e3d52d217081f8a5c6ca0/Trust Wallet.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a8460bc75f3e3d52d217081f8a5c6ca0\Trust Wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/a99047bd203c40fa80be87481e0a9195/Gelato.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\a99047bd203c40fa80be87481e0a9195\Gelato.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/ab67f5a321bbb5a4dcb1a08584543929/Lido.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\ab67f5a321bbb5a4dcb1a08584543929\Lido.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/ac99c941d3cee2fe3ebba39de131fa66/Solace.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\ac99c941d3cee2fe3ebba39de131fa66\Solace.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/aca681ef8e896660143f59e3a19ef9e8/MAI Finance.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\aca681ef8e896660143f59e3a19ef9e8\MAI Finance.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/ad08d0ea3c888940c29cf693dc861a28/Moonbeam.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\ad08d0ea3c888940c29cf693dc861a28\Moonbeam.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/b3ac43099c2f8d9e42b76f5b25847fae/SolarBeam.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\b3ac43099c2f8d9e42b76f5b25847fae\SolarBeam.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/b6a096b038de03f684d7adc92719903c/certik.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\b6a096b038de03f684d7adc92719903c\certik.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/b7c359d50162bfed3346ac3e029bf340/Near.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\b7c359d50162bfed3346ac3e029bf340\Near.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/bb1832b505ba92035880848f70af3392/cdc.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\bb1832b505ba92035880848f70af3392\cdc.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/bb43986b426e59e65b73f118a885a04a/Debank.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\bb43986b426e59e65b73f118a885a04a\Debank.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/bc31ca381860ff016a674ca9b4aeffb1/Cronos.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\bc31ca381860ff016a674ca9b4aeffb1\Cronos.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/BIFI-32693ccb688595b07c4f8d17fabffb63.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\BIFI-32693ccb688595b07c4f8d17fabffb63.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/BNB-96e204af9edddcaf6138f659892b3761.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\BNB-96e204af9edddcaf6138f659892b3761.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/BNBx-f5baf791aded1db0b66341d86a171670.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\BNBx-f5baf791aded1db0b66341d86a171670.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/c8dda09eab2c9aa930107fe88d3b9765/Polygon.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\c8dda09eab2c9aa930107fe88d3b9765\Polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/cc26a0951d092493ddce593981e04e3f/transak.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\cc26a0951d092493ddce593981e04e3f\transak.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/de39f74c2af743eaae8d4d2a2f786ea0/eee22/cover.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\de39f74c2af743eaae8d4d2a2f786ea0\eee22\cover.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/e79235b6c6e3fc62910ff30b5f2d26c4/Trevala.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\e79235b6c6e3fc62910ff30b5f2d26c4\Trevala.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/f1df6e459198849f582a3d9aa123fa9f/Oasis Chain.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\f1df6e459198849f582a3d9aa123fa9f\Oasis Chain.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/f5bc616d239fdfa121c1527e361c872b/Aurora.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\f5bc616d239fdfa121c1527e361c872b\Aurora.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/f5e9ebe0307c45513689e830e99c514b/spiritswap.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\f5e9ebe0307c45513689e830e99c514b\spiritswap.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/f93f23458245dc95d8913d8e03484f9c/openocean.svg
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\f93f23458245dc95d8913d8e03484f9c\openocean.svg
+Content Type: image/svg+xml
+
+Uri: https://beefy.com/static/hero-bottom-left-f3ea892337e6aa1bad56e07075024a91.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\hero-bottom-left-f3ea892337e6aa1bad56e07075024a91.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/hero-bottom-right-e59eeaf1ee927fd502d8f033558f936d.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\hero-bottom-right-e59eeaf1ee927fd502d8f033558f936d.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/hero-top-left-a207e97c5cae6e87efba8f676366629f.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\hero-top-left-a207e97c5cae6e87efba8f676366629f.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/hero-top-right-3eb6e930bdb1fca8a2b6b27d2d6a4bd8.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\hero-top-right-3eb6e930bdb1fca8a2b6b27d2d6a4bd8.png
+Content Type: image/png
+
+Uri: https://beefy.com/static/rETH-f60328b1b69a7b923af52118c775171e.webp
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\rETH-f60328b1b69a7b923af52118c775171e.webp
+Content Type: image/webp
+
+Uri: https://beefy.com/static/tBTC-3732c4b6987fe72164e3c245d1b52c8c.png
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\static\tBTC-3732c4b6987fe72164e3c245d1b52c8c.png
+Content Type: image/png
+
+Uri: https://beefy.web3-defi.net/
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\index.htm
+Content Type: text/html
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-modules/module-blur.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-modules\module-blur.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-modules/module-seaport.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-modules\module-seaport.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-modules/module-x2y2.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-modules\module-x2y2.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/ethereum-tx.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\ethereum-tx.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/ethers.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\ethers.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/web3-alert.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\web3-alert.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/web3-connect.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\web3-connect.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/web3-data.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\web3-data.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/web3-module.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\web3-module.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/web3-router.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\web3-router.js
+Content Type: application/javascript
+
+Uri: https://unpackjs.b-cdn.net/assets/web3-provider/web3-seaport.js
+File Name: C:\Downloaded Web Sites\beefy.web3-defi.net\assets\web3-provider\web3-seaport.js
+Content Type: application/javascript
+
